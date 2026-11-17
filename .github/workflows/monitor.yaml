@@ -4,8 +4,21 @@ on:
     - cron: '17 7,12,18 * * *'
       timezone: Europe/Rome
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Modalita di esecuzione'
+        type: choice
+        required: true
+        default: diagnostic
+        options:
+          - diagnostic
+          - normal
+          - test
 permissions:
   contents: write
+concurrency:
+  group: cai-monitor-state
+  cancel-in-progress: false
 jobs:
   monitor:
     runs-on: ubuntu-latest
@@ -15,17 +28,30 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - name: Controlla e notifica
+      - name: Controlla, notifica e diagnostica
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python monitor.py
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_SCHEDULE: ${{ github.event.schedule }}
+          MODE: ${{ inputs.mode || 'normal' }}
+        run: python monitor.py --mode "$MODE"
+      - name: Pubblica diagnostica consultabile (anche con errori)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostica-cai
+          path: diagnostics.json
+          if-no-files-found: ignore
+          retention-days: 30
       - name: Salva archivio bandi visti
+        if: success() && (inputs.mode != 'test')
         run: |
           if [ -n "$(git status --porcelain -- state.json)" ]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add state.json
             git commit -m 'Aggiorna archivio corsi CAI'
+            git pull --rebase
             git push
           fi
