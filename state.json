@@ -1,5 +1,13 @@
 {
-  "last_checked_utc": "2026-11-17T14:13:16.465211+00:00",
+  "last_checked_utc": "2026-11-17T18:10:42+00:00",
+  "last_success": {
+    "https://caifirenze.it/corsi": "2026-11-17T18:10:42+00:00",
+    "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni/": "2026-11-17T18:10:42+00:00",
+    "https://www.cairoma.it/?page_id=9946": "2026-11-17T18:10:42+00:00",
+    "https://www.scuolafrancoalletto.org/": "2026-11-17T18:10:42+00:00",
+    "https://www.scuolagransasso.org/": "2026-11-17T18:10:42+00:00",
+    "https://www.scuolapaoloconsiglio.it/home/": "2026-11-17T18:10:42+00:00"
+  },
   "sources": {
     "https://caifirenze.it/corsi": {
       "https://caifirenze.it/alpinismo-giovanile/alpinismo-giovanile-attivita-ag-2027": {
@@ -43,47 +51,47 @@
         "title": "Sci alpino"
       },
       "https://caifirenze.it/corsi#titolo-245e0997bcd3": {
-        "context_hash": "5101234b8a791f14",
+        "context_hash": "fa261825107c4306",
         "relevant": false,
         "title": "Corso Introduzione alla Montagna Innevata – Novembre Dicembre 2026"
       },
       "https://caifirenze.it/corsi#titolo-69016a36b778": {
-        "context_hash": "de71c189104a2fb0",
+        "context_hash": "2664413746e73326",
         "relevant": true,
         "title": "Corso di Arrampicata su Roccia (AR1) Autunno 2026"
       },
       "https://caifirenze.it/corsi#titolo-6dd01f596fcf": {
-        "context_hash": "589cf8df3bc34d46",
+        "context_hash": "0a4e0ac646a3c041",
         "relevant": true,
         "title": "Corso di Base di Alpinismo (A1) 2026"
       },
       "https://caifirenze.it/corsi#titolo-b30db68de58d": {
-        "context_hash": "9134e1e1691dd89b",
+        "context_hash": "5519fcee3eeff641",
         "relevant": false,
         "title": "CORSO SCI e SNOWBOARD 2027"
       },
       "https://caifirenze.it/corsi#titolo-be367a682725": {
-        "context_hash": "5b6d3dacc03a9a30",
+        "context_hash": "4db908d497dfbfc5",
         "relevant": true,
         "title": "Alpinismo Giovanile: Attività AG 2027"
       },
       "https://caifirenze.it/corsi#titolo-cd683baa5cc0": {
-        "context_hash": "1488449ab4e9d614",
+        "context_hash": "4e03fd1ec86943e1",
         "relevant": true,
         "title": "Corsi di escursionismo avanzato e avvicinamento alle ferrate 2026"
       },
       "https://caifirenze.it/corsi#titolo-d023f3fb2941": {
-        "context_hash": "0b670407a011211d",
+        "context_hash": "e21a9d32f25dafed",
         "relevant": true,
         "title": "Corso di ferrate (M-F1) Autunno 2026"
       },
       "https://caifirenze.it/corsi#titolo-d5c8a4e56b1b": {
-        "context_hash": "d488460199a79ed5",
+        "context_hash": "ec041793af18d9b6",
         "relevant": false,
         "title": "GSF – Corso d’introduzione alla Speleologia 3-25 ottobre 2026"
       },
       "https://caifirenze.it/corsi#titolo-fa49fe06e2d0": {
-        "context_hash": "fac511f8ef16faee",
+        "context_hash": "a776ef8ef19ae674",
         "relevant": false,
         "title": "Corso per operatore volontario di manutenzione sentieri Chianti fiorentino"
       },
@@ -150,47 +158,47 @@
         "title": "» Informazioni sul corso ed iscrizioni"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-01a9ac355003": {
-        "context_hash": "73fa83966cb2b42e",
+        "context_hash": "da5a0a123d931c7f",
         "relevant": true,
         "title": "Febbraio 2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-145f396fe6cb": {
-        "context_hash": "440dc9d9e7e7fd7d",
+        "context_hash": "1abc3fc9eceda853",
         "relevant": true,
         "title": "XII CORSO DI SCI ALPINISMO BASE SA1 2024 Gennaio-Marzo 2024"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-55eba359693e": {
-        "context_hash": "f93f1ce5b1bdc707",
+        "context_hash": "13af00e8f06e656e",
         "relevant": true,
         "title": "XIV CORSO DI SCI ALPINISMO BASE SA1 2026"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-5af626949682": {
-        "context_hash": "b331dc2a4f79f784",
+        "context_hash": "f6507113436a73ba",
         "relevant": false,
         "title": "Congresso degli Istruttori"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-6afa46aa601c": {
-        "context_hash": "38f6ea66fe1ce49e",
+        "context_hash": "e53f2bad7df5fe77",
         "relevant": true,
         "title": "III CORSO BASE ALPINISMO A1"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-6fe3554c7bec": {
-        "context_hash": "dccfb9fdc7eaab97",
+        "context_hash": "11a60cf69280d150",
         "relevant": false,
         "title": "Gennaio – marzo 2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-76e2f25cb3c1": {
-        "context_hash": "e8e474f94065879c",
+        "context_hash": "ad65c56b18bc41dc",
         "relevant": true,
         "title": "3° CORSO ALPINISMO AVANZATO A2 2024 24 maggio-30 giugno 2024"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-8172b1a35c9e": {
-        "context_hash": "14b4e6e054c0e01e",
+        "context_hash": "a6c5d2edcaec6a3e",
         "relevant": true,
         "title": "Marzo – Aprile 2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-88708a1ee335": {
-        "context_hash": "688357cbf63c5a13",
+        "context_hash": "d800d80ae37b240d",
         "relevant": false,
         "title": "XIII Corso SA1 2025 SCIALPINISMO Corso SA1 di introduzione allo scialpinismo"
       },
@@ -200,37 +208,37 @@
         "title": "20 giugno | 3 agosto 2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-ab2cf9a429e1": {
-        "context_hash": "eca32da49c78a535",
+        "context_hash": "5c9a491f421da616",
         "relevant": true,
         "title": "IV CORSO DI ALPINISMO AVANZATO A2 2026"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-b424af925aa3": {
-        "context_hash": "03bbfde90f80058c",
+        "context_hash": "d350acfd6eac6698",
         "relevant": true,
         "title": "INTRODUZIONE ALL’ALPINISMO INVERNALE"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-b9a486ef24cd": {
-        "context_hash": "b4322a24d0ee384b",
+        "context_hash": "6a92510fe7a13eac",
         "relevant": false,
         "title": "XI Corso Scialpinismo 2023 SA1"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-dbe6b3bb9dbe": {
-        "context_hash": "a5bedd6dd2260afb",
+        "context_hash": "d0ddd6a2c48d329d",
         "relevant": true,
         "title": "GENNAIO – MARZO 2026"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-ed0d22f091fb": {
-        "context_hash": "afa23dc358afd945",
+        "context_hash": "7edbec2c5560721d",
         "relevant": true,
         "title": "IV CORSO DI ALPINISMO BASE A1-2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-ef794757c509": {
-        "context_hash": "84e73ad1bdd5fc09",
+        "context_hash": "87411f4419ceb0c6",
         "relevant": true,
         "title": "MAGGIO – LUGLIO 2026"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-f8d04630130b": {
-        "context_hash": "ece4225e525d1232",
+        "context_hash": "5cb54b42a8015114",
         "relevant": true,
         "title": "III CORSO DI SCI ALPINISMO AVANZATO SA2 2025"
       },
@@ -347,9 +355,9 @@
     },
     "https://www.cairoma.it/?page_id=9946": {
       "http://organizzazione.cai.it/commissione-centrale-escursionismo-cicloescursionismo/wp-content/uploads/sites/83/2024/12/20241212-LG-e-PD-Corsi-sezionali-Escursionismo-Ver.-1.3-1.pdf": {
-        "context_hash": "ffe80d03836c195e",
+        "context_hash": "9b88cdcfff5ae933",
         "relevant": true,
-        "title": "-Corso Avanzato di Escursionismo in Ambiente Innevato (EAI 2)"
+        "title": "Corso Attività Escursionistica Sociale (E3)"
       },
       "http://www.cairoma.it/?page_id=10780": {
         "context_hash": "28d412f98b097638",
@@ -357,14 +365,14 @@
         "title": "Componenti della Scuola Sezionale di Escursionismo"
       },
       "https://organizzazione.cai.it/commissione-centrale-escursionismo-cicloescursionismo/wp-content/uploads/sites/83/2024/11/20231124-LG-e-PD-Corsi-Sezionali__-Cicloescursioinismo-Ver.-2-2.pdf": {
-        "context_hash": "6b4a6d0578caf009",
+        "context_hash": "7a33b28c9bd713d1",
         "relevant": true,
-        "title": "Corso Attività CicloEscursionistica Sociale (CE3)"
+        "title": "-Corso Base di Cicloescursionismo (CE1)"
       },
       "https://organizzazione.cai.it/commissione-centrale-escursionismo-cicloescursionismo/wp-content/uploads/sites/83/2024/12/20241212-LG-e-PD-Corsi-sezionali-Escursionismo-Ver.-1.3-1.pdf": {
-        "context_hash": "0a60ada4d6632552",
+        "context_hash": "f3c5aca3c29d97e6",
         "relevant": true,
-        "title": "-Corso Avanzato di Escursionismo (E2)"
+        "title": "Corso Base di Escursionismo (E1)"
       },
       "https://www.cairoma.it/?p=34438": {
         "context_hash": "6a3bf4e3e40a3cf0",
@@ -372,7 +380,7 @@
         "title": "15 ° Corso di Escursionismo in Ambiente Innevato (EAI1)"
       },
       "https://www.cairoma.it/?page_id=9946#titolo-df843f4b1e3f": {
-        "context_hash": "fd8f773ca71ba028",
+        "context_hash": "a471c6f1bc4b9cf8",
         "relevant": false,
         "title": "Scuola Sezionale di Escursionismo"
       }
@@ -384,17 +392,17 @@
         "title": "PREISCRIZIONE ONLINE"
       },
       "https://www.scuolafrancoalletto.org/#titolo-111f6350d93d": {
-        "context_hash": "6a59704fda011e97",
+        "context_hash": "9cde2acaa0b7f0bd",
         "relevant": false,
         "title": "La Scuola"
       },
       "https://www.scuolafrancoalletto.org/#titolo-117c8935df19": {
-        "context_hash": "1c8186f7d560f7dc",
+        "context_hash": "0e4d202fb7e974ae",
         "relevant": false,
         "title": "I Nostri Corsi"
       },
       "https://www.scuolafrancoalletto.org/#titolo-df9cd9a9cf41": {
-        "context_hash": "34090904facd5425",
+        "context_hash": "8f34427bd0029667",
         "relevant": false,
         "title": "Iscriviti alla Nostra Newsletter"
       },
