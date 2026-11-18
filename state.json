@@ -1,12 +1,12 @@
 {
-  "last_checked_utc": "2026-11-17T18:10:42+00:00",
+  "last_checked_utc": "2026-11-18T07:30:09+00:00",
   "last_success": {
-    "https://caifirenze.it/corsi": "2026-11-17T18:10:42+00:00",
-    "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni/": "2026-11-17T18:10:42+00:00",
-    "https://www.cairoma.it/?page_id=9946": "2026-11-17T18:10:42+00:00",
-    "https://www.scuolafrancoalletto.org/": "2026-11-17T18:10:42+00:00",
-    "https://www.scuolagransasso.org/": "2026-11-17T18:10:42+00:00",
-    "https://www.scuolapaoloconsiglio.it/home/": "2026-11-17T18:10:42+00:00"
+    "https://caifirenze.it/corsi": "2026-11-18T07:30:09+00:00",
+    "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni/": "2026-11-18T07:30:09+00:00",
+    "https://www.cairoma.it/?page_id=9946": "2026-11-18T07:30:09+00:00",
+    "https://www.scuolafrancoalletto.org/": "2026-11-18T07:30:09+00:00",
+    "https://www.scuolagransasso.org/": "2026-11-18T07:30:09+00:00",
+    "https://www.scuolapaoloconsiglio.it/home/": "2026-11-18T07:30:09+00:00"
   },
   "sources": {
     "https://caifirenze.it/corsi": {
@@ -60,15 +60,15 @@
         "relevant": true,
         "title": "Corso di Arrampicata su Roccia (AR1) Autunno 2026"
       },
-      "https://caifirenze.it/corsi#titolo-6dd01f596fcf": {
-        "context_hash": "0a4e0ac646a3c041",
-        "relevant": true,
-        "title": "Corso di Base di Alpinismo (A1) 2026"
-      },
       "https://caifirenze.it/corsi#titolo-b30db68de58d": {
         "context_hash": "5519fcee3eeff641",
         "relevant": false,
         "title": "CORSO SCI e SNOWBOARD 2027"
+      },
+      "https://caifirenze.it/corsi#titolo-b9831a29d24b": {
+        "context_hash": "bfe575bbb46d133e",
+        "relevant": false,
+        "title": "Corso BASE di Scialpinismo (SA1) 2027"
       },
       "https://caifirenze.it/corsi#titolo-be367a682725": {
         "context_hash": "4db908d497dfbfc5",
@@ -95,15 +95,15 @@
         "relevant": false,
         "title": "Corso per operatore volontario di manutenzione sentieri Chianti fiorentino"
       },
-      "https://caifirenze.it/corsi/corso-alpinismo-a1-2026": {
-        "context_hash": "ca7db3f9cd7a144e",
-        "relevant": true,
-        "title": "Corso di Base di Alpinismo (A1) 2026"
-      },
       "https://caifirenze.it/corsi/corso-ar1-2026": {
         "context_hash": "8851264f2fc24d2b",
         "relevant": true,
         "title": "Corso di Arrampicata su Roccia (AR1) Autunno 2026"
+      },
+      "https://caifirenze.it/corsi/corso-base-di-scialpinismo-sa1-2027": {
+        "context_hash": "ca1c60474fa0f525",
+        "relevant": false,
+        "title": "Corso BASE di Scialpinismo (SA1) 2027"
       },
       "https://caifirenze.it/corsi/corso-mf1-2026": {
         "context_hash": "66d3ce078d8d3da0",
