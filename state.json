@@ -1,12 +1,12 @@
 {
-  "last_checked_utc": "2026-11-26T07:37:39+00:00",
+  "last_checked_utc": "2026-11-26T12:14:36+00:00",
   "last_success": {
-    "https://caifirenze.it/corsi": "2026-11-26T07:37:39+00:00",
-    "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni/": "2026-11-25T17:57:36+00:00",
-    "https://www.cairoma.it/?page_id=9946": "2026-11-26T07:37:39+00:00",
-    "https://www.scuolafrancoalletto.org/": "2026-11-26T07:37:39+00:00",
-    "https://www.scuolagransasso.org/": "2026-11-26T07:37:39+00:00",
-    "https://www.scuolapaoloconsiglio.it/home/": "2026-11-26T07:37:39+00:00"
+    "https://caifirenze.it/corsi": "2026-11-26T12:14:36+00:00",
+    "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni/": "2026-11-26T12:14:36+00:00",
+    "https://www.cairoma.it/?page_id=9946": "2026-11-26T12:14:36+00:00",
+    "https://www.scuolafrancoalletto.org/": "2026-11-26T12:14:36+00:00",
+    "https://www.scuolagransasso.org/": "2026-11-26T12:14:36+00:00",
+    "https://www.scuolapaoloconsiglio.it/home/": "2026-11-26T12:14:36+00:00"
   },
   "sources": {
     "https://caifirenze.it/corsi": {
@@ -162,6 +162,11 @@
         "relevant": true,
         "title": "Febbraio 2025"
       },
+      "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-0df6ea74f8c8": {
+        "context_hash": "a5082e36e1d91355",
+        "relevant": true,
+        "title": "GENNAIO – MARZO 2027"
+      },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-145f396fe6cb": {
         "context_hash": "1abc3fc9eceda853",
         "relevant": true,
@@ -188,7 +193,7 @@
         "title": "Gennaio – marzo 2025"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-76e2f25cb3c1": {
-        "context_hash": "ad65c56b18bc41dc",
+        "context_hash": "67caaf24717261ec",
         "relevant": true,
         "title": "3° CORSO ALPINISMO AVANZATO A2 2024 24 maggio-30 giugno 2024"
       },
@@ -201,6 +206,11 @@
         "context_hash": "d800d80ae37b240d",
         "relevant": false,
         "title": "XIII Corso SA1 2025 SCIALPINISMO Corso SA1 di introduzione allo scialpinismo"
+      },
+      "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-a61d6bd43c88": {
+        "context_hash": "1bdd1bdc4106fbb0",
+        "relevant": true,
+        "title": "XV CORSO DI SCI ALPINISMO BASE SA1 2027"
       },
       "https://cailaquila.it/scuole-cai-laquila/scuola-di-alpinismo-scialpinismo-e-arrampicata-libera-nestore-nanni#titolo-a7ddbf09df61": {
         "context_hash": "69153338ad410aae",
@@ -337,6 +347,11 @@
         "relevant": false,
         "title": "» Regolamento e Programma"
       },
+      "https://cailaquila.it/wp-content/uploads/2026/11/NN_SA1_2027_Regolamento-e-Programma_REV01.pdf": {
+        "context_hash": "47d36982f7281cde",
+        "relevant": false,
+        "title": "Regolamento e Programma"
+      },
       "https://tinyurl.com/nn-a1-2025": {
         "context_hash": "9b096d2129fb4747",
         "relevant": false,
@@ -348,6 +363,11 @@
         "title": "» Modulo iscrizione online"
       },
       "https://tinyurl.com/nn-sa1-2026": {
+        "context_hash": "9b096d2129fb4747",
+        "relevant": false,
+        "title": "» Modulo iscrizione online"
+      },
+      "https://tinyurl.com/nn-sa1-2027": {
         "context_hash": "9b096d2129fb4747",
         "relevant": false,
         "title": "» Modulo iscrizione online"
